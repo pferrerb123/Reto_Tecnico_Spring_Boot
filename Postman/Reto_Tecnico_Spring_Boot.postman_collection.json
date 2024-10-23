@@ -1,0 +1,27 @@
+{
+	"info": {
+		"_postman_id": "b9ea221d-a26d-4dc2-990e-03841c1fe6df",
+		"name": "Reto_Tecnico_Spring_Boot",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "2699775",
+		"_collection_link": "https://gold-satellite-921055.postman.co/workspace/Pacifico-Seguros~cb0b75e1-0259-432d-9469-f051a26bc4a3/collection/2699775-b9ea221d-a26d-4dc2-990e-03841c1fe6df?action=share&source=collection_link&creator=2699775"
+	},
+	"item": [
+		{
+			"name": "Consulta",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "Actualizar",
+			"request": {
+				"method": "POST",
+				"header": []
+			},
+			"response": []
+		}
+	]
+}
